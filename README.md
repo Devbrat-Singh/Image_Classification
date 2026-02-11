@@ -87,4 +87,4 @@ To predict an unseen image:
 ## 🚀 How to Run the Project
 
 ```bash
-git clone https://github.com/Devbrat-Singh/Image_Classification.git
+https://github.com/Devbrat-Singh/Image_Classification/blob/main/DogsVsCats_ImageClassification.ipynb
